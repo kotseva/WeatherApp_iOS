@@ -3,7 +3,7 @@
 //  Clima
 //
 //  Created by Angela Koceva on 1/16/20.
-//  Copyright © 2020 App Brewery. All rights reserved.
+//  Copyright © 2020 Angela Koceva. All rights reserved.
 //
 
 import Foundation
